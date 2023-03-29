@@ -1,0 +1,15 @@
+aside#derecha{
+position: absolute;
+font-family:Comic Sans MS;
+right: 0px;
+top: 400px;
+left: 1120px;
+height: 370px;
+width: 300px;
+border-radius: 40px;
+border: 10px double #8E8E7E;
+  margin: 0px;
+  background:#F0F3F4;
+  font-size: 15px;
+   text-align: left;
+}
